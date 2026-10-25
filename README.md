@@ -1,0 +1,1 @@
+# power-query-manual-input-hack
