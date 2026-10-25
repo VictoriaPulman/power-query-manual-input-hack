@@ -8,7 +8,7 @@
 
 | Нормальный интерфейс (Кнопка на месте) | Обновленный интерфейс (Кнопка вырезана) |
 | :---: | :---: |
-| <img width="212" height="241" alt="2026-10-25_03-50-38" src="https://github.com/user-attachments/assets/cd270b20-961d-4e2c-a23a-7ede1768b63f" /> | <<img width="156" height="158" alt="2026-10-25_03-51-30" src="https://github.com/user-attachments/assets/a97934ae-f387-4655-adf8-3d99ec6a5dac" /> |
+| <img width="156" height="158" alt="2026-10-25_03-51-30" src="https://github.com/user-attachments/assets/a97934ae-f387-4655-adf8-3d99ec6a5dac" /> | <img width="212" height="241" alt="2026-10-25_03-50-38" src="https://github.com/user-attachments/assets/cd270b20-961d-4e2c-a23a-7ede1768b63f" /> |
 
 > **Проблема:** В интерфейсе отсутствует стандартная кнопка для создания таблицы вручную.
 > **Решение:** Восстановить стандартное окно редактирования через пустой запрос и Расширенный редактор.
