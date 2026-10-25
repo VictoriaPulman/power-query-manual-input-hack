@@ -43,3 +43,6 @@
      <img width="327" height="148" alt="2026-10-25_22-37-02" src="https://github.com/user-attachments/assets/2ff7f752-5a14-483f-a38c-4f833de10c87" />
 
    * В открывшемся окне заполнить любые значения, строки и столбцы вручную.
+
+     <img width="355" height="315" alt="2026-10-25_22-38-53" src="https://github.com/user-attachments/assets/3f21ddcd-d983-4d91-be74-a426a0195c35" />
+
