@@ -46,3 +46,5 @@
 
      <img width="355" height="315" alt="2026-10-25_22-38-53" src="https://github.com/user-attachments/assets/3f21ddcd-d983-4d91-be74-a426a0195c35" />
 
+[Перейти к инструкции по импорту PDF через Power Query 2019](./README2.md)
+
